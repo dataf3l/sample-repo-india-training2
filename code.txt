@@ -1,18 +1,18 @@
-<<<<<<< HEAD
+	<<<<<<< HEAD
 
-something else
-=======
-keep working
-small or smallish change herecode
-code
-kasjdhkjahsdcode
-code
-code
-code
-code
-code
-code
-code
-code
-add thing here
->>>>>>> 4ee897c4db663e328582afe816019b6af0c8ba1c
+	something else
+	=======
+	keep working
+	small or smallish change herecode
+	code
+	kasjdhkjahsdcode
+	code
+	code
+	code
+	code
+	code
+	code
+	code
+	code
+	add thing here
+	>>>>>>> 4ee897c4db663e328582afe816019b6af0c8ba1c
